@@ -1,1 +1,2 @@
 # parthoroy158-HR-Analytics-Dashboard-Excel
+Developed an HR Analytics Dashboard in Excel using Pivot Tables, charts, and slicers to analyze employee data across branches and departments. The dashboard provides insights into salary distribution, workforce strength, gender ratio, employee types, status tracking, and hiring trends. Its interactive design enables dynamic filtering, supporting effective workforce planning, budgeting, and data-driven HR decision-making.
